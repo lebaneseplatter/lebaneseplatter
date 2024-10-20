@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lebaneseplatter
+- 👀 I’m interested in chess and python
+- 🌱 I’m currently learning python
+- 😄 Pronouns: totally/straight
+- ⚡ Fun fact: i can offend people in seconds
