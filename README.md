@@ -1,4 +1,3 @@
-
 <h1 data-importer="text" align="left">Hey, I'm Hayaan Pathan</h1>
 
 ###
@@ -55,34 +54,24 @@
 
 ###
 
-<br clear="both">
-
 <div data-importer="stats" align="left">
   <img src="https://raw.githubusercontent.com/lebaneseplatter/lebaneseplatter/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/lebaneseplatter/lebaneseplatter/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=apprentice&hide_border=false&order=2" height="147" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/lebaneseplatter/lebaneseplatter/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=apprentice&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/lebaneseplatter/lebaneseplatter/activity-graph-output/activity-graph.svg?radius=16&theme=arctic&area=true&order=5&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/lebaneseplatter/lebaneseplatter/snake-output/snake.svg" alt="Snake animation" />
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lebaneseplatter/lebaneseplatter/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lebaneseplatter/lebaneseplatter/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lebaneseplatter/lebaneseplatter/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 
 ###
 
 <div data-importer="profile-views" align="left">
   <img data-importer="profile-views" src="https://count.getloli.com/@:lebaneseplatter?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-###
-
-<div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
-
-<div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
 
 ###
