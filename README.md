@@ -56,7 +56,7 @@
 
 <div data-importer="stats" align="left">
   <img src="https://raw.githubusercontent.com/lebaneseplatter/lebaneseplatter/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/lebaneseplatter/lebaneseplatter/activity-graph-output/activity-graph.svg?radius=16&theme=modern-lilac&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/lebaneseplatter/lebaneseplatter/activity-graph-output/activity-graph.svg?radius=16&theme=monokai&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
