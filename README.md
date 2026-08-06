@@ -61,17 +61,3 @@
 </div>
 
 ###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lebaneseplatter/lebaneseplatter/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lebaneseplatter/lebaneseplatter/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lebaneseplatter/lebaneseplatter/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
-
-###
-
-<div data-importer="profile-views" align="left">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:lebaneseplatter?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-###
